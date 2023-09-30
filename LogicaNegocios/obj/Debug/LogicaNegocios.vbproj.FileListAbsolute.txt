@@ -1,0 +1,55 @@
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.Resources.resources
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.GenerateResource.Cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.Resources.resources
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.GenerateResource.Cache
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\bin\Debug\LogicaNegocios.xml
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\bin\Debug\Oracle.DataAccess.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.pdb
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\bin\Debug\CapaDatos.xml
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.AssemblyReference.cache
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.Resources.resources
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.GenerateResource.cache
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.CoreCompileInputs.cache
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.CopyComplete
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.xml
+D:\Fernando\Descargas\webService1\webService1\webService1\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\bin\Debug\LogicaNegocios.xml
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\bin\Debug\CapaDatos.dll
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\bin\Debug\CapaDatos.pdb
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\bin\Debug\CapaDatos.xml
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.AssemblyReference.cache
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.Resources.resources
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.GenerateResource.cache
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.CoreCompileInputs.cache
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.vbproj.CopyComplete
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.xml
+D:\Fernando\Descargas\ejemploSOAP\LogicaNegocios\obj\Debug\LogicaNegocios.pdb

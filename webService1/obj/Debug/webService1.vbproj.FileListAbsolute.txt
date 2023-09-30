@@ -1,0 +1,71 @@
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.dll.config
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\webService1.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\Oracle.DataAccess.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\LogicaNegocios.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.pdb
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\bin\CapaDatos.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.vbprojResolveAssemblyReference.cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.vbproj.GenerateResource.Cache
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.dll
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.xml
+C:\Users\adgarciar\Documents\Visual Studio 2013\Projects\webService1\webService1\obj\Debug\webService1.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.dll.config
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\webService1.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\LogicaNegocios.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\Oracle.DataAccess.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\CapaDatos.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\LogicaNegocios.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\LogicaNegocios.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\CapaDatos.pdb
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\bin\CapaDatos.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.vbprojResolveAssemblyReference.cache
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.Resources.resources
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.vbproj.GenerateResource.Cache
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.dll
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.xml
+C:\Users\DANIEL\Desktop\webService1\webService1\webService1\obj\Debug\webService1.pdb
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\webService1.dll.config
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\webService1.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\webService1.pdb
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\webService1.xml
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\LogicaNegocios.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\Oracle.DataAccess.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\CapaDatos.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\LogicaNegocios.pdb
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\LogicaNegocios.xml
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\CapaDatos.pdb
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\bin\CapaDatos.xml
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.vbproj.AssemblyReference.cache
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.Resources.resources
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.vbproj.GenerateResource.cache
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.vbproj.CoreCompileInputs.cache
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.vbproj.CopyComplete
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.dll
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.xml
+D:\Fernando\Descargas\webService1\webService1\webService1\webService1\obj\Debug\webService1.pdb
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\webService1.dll.config
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\webService1.dll
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\webService1.pdb
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\webService1.xml
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\LogicaNegocios.dll
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\LogicaNegocios.pdb
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\LogicaNegocios.xml
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.vbproj.AssemblyReference.cache
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.Resources.resources
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.vbproj.GenerateResource.cache
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.vbproj.CoreCompileInputs.cache
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.vbproj.CopyComplete
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.dll
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.xml
+D:\Fernando\Descargas\ejemploSOAP\webService1\obj\Debug\webService1.pdb
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\CapaDatos.dll
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\CapaDatos.pdb
+D:\Fernando\Descargas\ejemploSOAP\webService1\bin\CapaDatos.xml
